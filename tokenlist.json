@@ -1,6 +1,6 @@
 {
   "name": "Satoshi",
-  "logoURI": "https://www.coingecko.com/assets/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://scan.test.btcs.network/images/logo-test.svg",
   "keywords": ["defi", "satoshi"],
   "timestamp": "2022-04-06T06:00:00.000Z",
   "tokens": [
@@ -21,7 +21,7 @@
 	  "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png?1618814666"
     },
     {
-      "chainId": 1115,
+      "chainId": 1112,
       "address": "0x677E2c78C9036a84a0cD57E6c59F4B390F1191E0",
       "name": "sBNB",
       "symbol": "sBNB",
@@ -29,7 +29,7 @@
 	  "logoURI": "https://assets.coingecko.com/coins/images/22884/thumb/BNB_wh_small.png?1644224553"
     },
     {
-      "chainId": 1115,
+      "chainId": 1112,
       "address": "0x825E20eE1479457C816eE0c47ba110f2216fd9a2",
       "name": "sDOT",
       "symbol": "sDOT",
@@ -45,7 +45,7 @@
 	  "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707"
     },
     {
-      "chainId": 1115,
+      "chainId": 1112,
       "address": "0xF4e97C063AAcDB8AC568cA07Df8463Aba15f38A0",
       "name": "sUSDC",
       "symbol": "sUSDC",
@@ -53,5 +53,5 @@
 	  "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389"
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 5 }
+  "version": { "major": 1, "minor": 0, "patch": 6 }
 }
