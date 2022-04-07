@@ -21,37 +21,13 @@
 	  "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png?1618814666"
     },
     {
-      "chainId": 1112,
-      "address": "0x677E2c78C9036a84a0cD57E6c59F4B390F1191E0",
-      "name": "sBNB",
-      "symbol": "sBNB",
-      "decimals": 18,
-	  "logoURI": "https://assets.coingecko.com/coins/images/22884/thumb/BNB_wh_small.png?1644224553"
-    },
-    {
-      "chainId": 1112,
-      "address": "0x825E20eE1479457C816eE0c47ba110f2216fd9a2",
-      "name": "sDOT",
-      "symbol": "sDOT",
-      "decimals": 18,
-	  "logoURI": "https://assets.coingecko.com/coins/images/23268/thumb/binance-dot_32.png?1643414783"
-    },
-    {
       "chainId": 1115,
       "address": "0xB36ab513Ce9861bD9769C62B30037f8bbB10618b",
       "name": "sUSDT",
       "symbol": "sUSDT",
       "decimals": 18,
 	  "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707"
-    },
-    {
-      "chainId": 1112,
-      "address": "0xF4e97C063AAcDB8AC568cA07Df8463Aba15f38A0",
-      "name": "sUSDC",
-      "symbol": "sUSDC",
-      "decimals": 18,
-	  "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389"
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 6 }
+  "version": { "major": 1, "minor": 0, "patch": 7 }
 }

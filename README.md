@@ -1,2 +1,1 @@
 few understand
-nothing
