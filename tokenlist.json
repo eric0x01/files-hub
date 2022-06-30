@@ -2,32 +2,16 @@
   "name": "Satoshi",
   "logoURI": "https://scan.test.btcs.network/images/logo-test.svg",
   "keywords": ["defi", "satoshi"],
-  "timestamp": "2022-04-06T06:00:00.000Z",
+  "timestamp": "2022-06-30T06:00:00.000Z",
   "tokens": [
     {
       "chainId": 1115,
-      "address": "0xae9fce3f25ea8a2d133f12dcdc10fe063dc67665",
-      "name": "sETH",
-      "symbol": "sETH",
-      "decimals": 18,
-	  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
-    },
-    {
-      "chainId": 1115,
-      "address": "0x6F52D323682f0586928005f67B588B963B283d28",
-      "name": "sBTC",
-      "symbol": "sBTC",
-      "decimals": 18,
-	  "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png?1618814666"
-    },
-    {
-      "chainId": 1115,
-      "address": "0xB36ab513Ce9861bD9769C62B30037f8bbB10618b",
-      "name": "sUSDT",
-      "symbol": "sUSDT",
-      "decimals": 18,
-	  "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707"
+      "address": "0x3786495F5d8a83B7bacD78E2A0c61ca20722Cce3",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707"
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 7 }
+  "version": { "major": 1, "minor": 0, "patch": 8 }
 }
