@@ -1,17 +1,17 @@
 {
-  "name": "Satoshi",
+  "name": "Core Chain Testnet",
   "logoURI": "https://scan.test.btcs.network/images/logo-test.svg",
-  "keywords": ["defi", "satoshi"],
-  "timestamp": "2022-06-30T06:00:00.000Z",
+  "keywords": ["defi", "core chain"],
+  "timestamp": "2022-07-19T06:00:00.000Z",
   "tokens": [
     {
       "chainId": 1115,
       "address": "0x3786495F5d8a83B7bacD78E2A0c61ca20722Cce3",
       "name": "Tether USD",
-      "symbol": "USDT",
+      "symbol": "sUSDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707"
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 8 }
+  "version": { "major": 1, "minor": 0, "patch": 9 }
 }
