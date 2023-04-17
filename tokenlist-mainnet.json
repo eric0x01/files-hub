@@ -1,0 +1,32 @@
+{
+  "name": "Core Chain Mainnet",
+  "logoURI": "https://raw.githubusercontent.com/eric0x01/files-hub/main/Core_logo.svg",
+  "keywords": ["defi", "core chain"],
+  "timestamp": "2023-04-17T10:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 1116,
+      "address": "0xa4151B2B3e269645181dCcF2D426cE75fcbDeca9",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707"
+    },{
+      "chainId": 1116,
+      "address": "0xeAB3aC417c4d6dF6b143346a46fEe1B847B50296",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707"
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
